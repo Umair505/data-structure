@@ -1,0 +1,1 @@
+Node with value 3 is present in the binary tree.

@@ -1,0 +1,7 @@
+Enter integers (enter a non-integer value to stop):
+Sorted unique elements:
+10
+20
+30
+50
+60
